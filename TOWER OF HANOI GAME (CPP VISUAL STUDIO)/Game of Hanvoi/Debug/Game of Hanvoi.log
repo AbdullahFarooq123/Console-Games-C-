@@ -1,0 +1,6 @@
+﻿  FIRST PERSON FPS.cpp
+D:\PROGRAMING\GAMES\CMD FPS GAME (CPP VISUAL STUDIO)\FIRST PERSON FPS.cpp(223): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\PROGRAMING\GAMES\CMD FPS GAME (CPP VISUAL STUDIO)\FIRST PERSON FPS.cpp(232): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  MY AEROPLANE GAME.cpp
+  Generating Code...
+  Game of Hanvoi.vcxproj -> D:\PROGRAMING\GAMES\TOWER OF HANOI GAME (CPP VISUAL STUDIO)\Debug\Game of Hanvoi.exe

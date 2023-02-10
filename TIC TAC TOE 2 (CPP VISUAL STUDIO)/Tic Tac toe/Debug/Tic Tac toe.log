@@ -1,0 +1,3 @@
+﻿  game.cpp
+D:\PROGRAMING\GAMES\TIC TAC TOE 2 (CPP VISUAL STUDIO)\Tic Tac toe\game.cpp(274): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tic Tac toe.vcxproj -> D:\PROGRAMING\GAMES\TIC TAC TOE 2 (CPP VISUAL STUDIO)\Debug\Tic Tac toe.exe
